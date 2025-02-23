@@ -14,4 +14,4 @@ yarn dev
 ```
 
 # Demo
-https://slimgifs.netlify.app
+https://slimheroes.netlify.app
