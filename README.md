@@ -1,4 +1,4 @@
-# Reac Heroes
+# React Heroes
 Show different heroes with react.
 
 
