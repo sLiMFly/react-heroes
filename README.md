@@ -14,4 +14,8 @@ yarn dev
 ```
 
 # Demo
+https://slimfly.github.io/react-heroes/
+
+or
+
 https://slimheroes.netlify.app
