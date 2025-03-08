@@ -16,3 +16,9 @@ yarn dev
 # Demo
 
 https://slimheroes.netlify.app
+
+## Screenshots
+
+<p align="center">
+    <img src="./marvel.png" alt="Heroes Screenshot" width="800"/>
+</p>
