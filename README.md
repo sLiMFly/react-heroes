@@ -22,3 +22,6 @@ https://slimheroes.netlify.app
 <p align="center">
     <img src="./marvel.png" alt="Heroes Screenshot" width="800"/>
 </p>
+
+
+Ejercicio del curso de [Fernando Herrera](https://fernando-herrera.com/)
